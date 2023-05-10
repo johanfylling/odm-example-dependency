@@ -1,2 +1,3 @@
-# odm-sample-dependency
-A sample Rego dependency
+# ODM Example Dependency
+
+An example Rego dependency used by [example project](https://github.com/johanfylling/odm-example-project).
